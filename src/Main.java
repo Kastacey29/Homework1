@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Домашнее задание");
+        System.out.println("Домашка номер один");
     }
 }
